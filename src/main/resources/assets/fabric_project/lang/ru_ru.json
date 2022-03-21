@@ -1,0 +1,11 @@
+{
+  "item.fabric_project.sun": "Солнце",
+
+  "block.fabric_project.magma": "Магма",
+
+  "itemGroup.fabric_project.sun": "Солнце",
+
+  "tooltip.fabric_project.sun": "§aНажмите §eshift, §aчтобы узнать подробнее",
+
+  "tooltip.fabric_project.sun_shift": "§cДанное солнце можно есть и оно является топливом!"
+}

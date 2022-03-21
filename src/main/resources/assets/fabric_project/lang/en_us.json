@@ -1,0 +1,11 @@
+{
+  "item.fabric_project.sun": "Sun",
+
+  "block.fabric_project.magma": "Magma",
+
+  "itemGroup.fabric_project.sun": "Sun",
+
+  "tooltip.fabric_project.sun": "§aPress §eshift §ato learn more",
+
+  "tooltip.fabric_project.sun_shift": "§cThis sun can be eaten and it is fuel!"
+}
